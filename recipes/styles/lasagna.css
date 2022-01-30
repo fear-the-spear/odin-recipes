@@ -1,0 +1,21 @@
+.title {
+  text-align: center;
+  font-size: 50px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+img {
+  height: auto;
+  width: 400px;
+  border: 2px solid black;
+}
+
+.img {
+  float: right;
+}
+
+ul,
+ol {
+  font-style: italic;
+  font-size: 14px;
+}
